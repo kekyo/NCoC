@@ -1,68 +1,67 @@
-# What is NCoC
+# NCoCとは
 
-No Code Of Conduct is a groundbreaking new idea.  Designed to help you find communities and projects that will not get stuck endlessly debating how members should behave in their communities, only to be found to never be fully resolved to anyone's liking.
+"No Code of Conduct" (行動規範を持たない) は画期的な新しいアイデアです。メンバーがコミュニティでどのように行動すべきかについて絶え間なく議論されずに、他の人の好みに完全には解決できないことが判明したコミュニティやプロジェクトを見つけるのに役立つように設計されています。
 
-#### What if... we all agreed?
+#### どうすれば...我々すべてが同意した？
 
-1. We are all adults.  Capable of having adult discussions.
+1. 私たちはすべて大人です。大人の議論ができる。
 
-2. We accept everyones contributions, we don't care if you're liberal or conservative, black or white, straight or gay, or anything in between!  In fact, we won't bring it up, or ask.  We simply do not care.
+2. 私たちは皆さんの貢献を受け入れます。リベラルな、あるいは保守的な、黒か白の、ストレートかゲイなのか、その間の何かを気にしません！実際、私たちはそれを持ち上げたり、尋ねたりしません。私たちは単に気にしません。
 
-3. Nothing else matters!
+3. 他には何も関係ありません！
 
+#### Q：素晴らしい！これを私のプロジェクトにどのように追加しますか？
 
-#### Q: Great!  How do I add this to my project?
+CODE_OF_CONDUCT.md をプロジェクトのルートディレクトリにコピーしてください。必要に応じて変更することができます。
 
-Simply copy CODE_OF_CONDUCT.md into the root directory of your project.  You may modify it to your needs.
+#### Q：No Code of Conductを宣伝するにはどうすればよいですか？
 
-#### Q: How do I promote No Code of Conduct?
+自由に行動し、No Code of Conductについて自由に話し、議論し、宣伝し、Twitterでハッシュタグ#NCoCを使用してください。
 
-Feel free to talk about, discuss, and promote No Code of Conduct anywhere you wish, and use the hashtag #NCoC on Twitter.
+#### Q：これが私に差別を感じさせたらどうですか？
 
-#### Q: What if, this makes me feel discriminated against?
+私たちが行動規範を持っていないために単純にこのように感じるならば、誰でもあなたに関係することは難しいです。これは誰にも差別されるものではありません。単に、私たちがサイト上の人々を尊敬しているかどうかを確認するためにベビーシッターをしていないからといって、あなたが歓迎されていないと感じたり、それは私たちが時間を持つものではありません。
 
-If you feel this way simply because we do not have a code of conduct, it is hard for anyone to relate to you.  This is not intended to discriminate against anyone.  Simply because we don't babysit people on our site to make sure they treat you with respect, does not mean we hope you feel unwelcome, or that you are treated without respect.  That is just not something we have time for.
+#### Q：CoCがなければ、あなたのコミュニティにどのように安全に関わっていると感じるでしょうか？私が虐待を受けた場合、どうすれば赤旗を立てることができますか？
 
-#### Q: Without a CoC, how would I possibly feel safe engaging in your community?  How would I raise a red flag if I am mistreated?
+あなたが他のディスカッションフォーラムでこれについて行く方法。あなたが行動規範だけを持つことに参加することに自分自身を制限すれば、あなたはインターネットと呼ばれるこの素晴らしい場所で人間として自分自身を制限しています。個々の気持ちを気にするのはこのコミュニティの場所ではありません。私たちはそれを個人に任せます。インターネットは大きな場所です。あなたはそれに対処するために自分自身を準備する必要があります。
 
-The way you would go about this in any other discussion forum.  If you limit yourself to participating in things that only have codes of conduct, then you're limiting yourself as a human being on this marvelous place we call the internet. It is not this community's place to care about individual feelings.  We leave that to the individuals.  The internet is a big place, you should prepare yourself to deal with it.
+#### Q：CoCをお持ちでない場合、これは必ずプロジェクトの終わりとなるでしょうし、それに貢献している有能な人材の終わりです！
 
-#### Q:  If you don't have a CoC, this will surely be the end of your project, and the end of some talented individuals contributing to it!
+CoCを持たないことは実用的な解決策であるという多くの証拠があります。たとえば、Linuxコミュニティは暖かく役に立つものではないかもしれませんが、間違ったり不快なことはありません。あなたが人を嫌がらせをしない限り、あなたは嫌がらせを受けることはありません。
 
-There is plenty of proof that not having a CoC is a workable solution.  While the linux community for example may not be warm and helpful, there is nothing wrong or offensive about it, and you certainly will not be harassed unless you harass people there.
+#### Q：仕事場や会議など、インターネット以外のコミュニケーションはどうですか？
 
-#### Q: What about non-internet communications, such as a place of work, or a conference?
+これらは分かりやすいものです。多くの場合、純粋なコミュニティは、物理的な場所やイベントに固有のCoCを持っています。世界のさまざまな地域では、ニーズは異なっています（「彼」と「彼女」「彼らは」英語を母国語としていない人々と対比）。私たちは、物理的な会合ではなく、ここでインターネットについて話しています。それは、人の話し方の重要でない部分については気にしなくてもいいということです。
 
-These understandably are different.  Often sane communities will have a CoC that is unique to their physical location, and/or event.  In different parts of the world, the needs are different (see "he" vs "she" vs "they" vs people that do not have English as their primary language).  We are talking about the internet here, not physical meet ups, and that requires we do not care about the unimportant parts of how people talk.
+#### Q：CoCがなければ、このコミュニティは新規参入者をどのように歓迎し、邪悪になり、脅迫したり、他のタイプの歓迎されない課題を抱くことはありませんか？
 
-#### Q: Without a CoC, how would this community be welcoming to newcomers, and not become vile, intimidating, or have some other type of unwelcome agenda?
+私たちは例で導くよう努力しています。私たちはあなたを後押しするのに十分なレベルの大人がいると感じています。しかし、もし誰かがあなたが愚かであるとか、間違っていると言ったら。やめる。思う。これはあなたの人種、地域、宗教、またはこのプロジェクトに関係しない何かと関係がありますか？これは難しいことです。彼らは悪い一日を過ごしている、悪い聞き手である、あるいはおそらく間違っていると考えましたか？あなたが間違っていないと感じたら、どうか是非、返信してください。ディスカッションが大好き！私たちはメンバーを愛しています。レベルの高い大人なら、あなたは1人のように扱われます。レベルの高い他の大人があなたから聞きたいと思っています。
 
-We strive to lead by example.  We feel there are enough level-headed adults here to back you up.  However, if someone tells you you are stupid, or wrong.  Stop.  Think.  Does this have anything to do with your race, region, religion, or anything else not related to this project?  This is a tricky one.  Have you considered, that they are either having a bad day, are a bad listener, or possibly, you are wrong?  If you feel you're not wrong, please, by all means, reply.  We love discussion!  We love our members.  We are confident if you are a level-headed adult, you will be treated like one.  Other level-headed adults want to hear from you.
+#### Q：あなたの名前は不快です。 CoCはCockのように聞こえますが、私はこれがコミュニティのこの問題の深刻さを軽視しようとしている白人男性グループだと感じています。私はあなたの動きをボイコットし、他の人にも同様に伝えるつもりです！
 
-#### Q: Your name is offensive.  CoC sounds like Cock, and I feel that this is a group of white males that is trying to downplay the seriousness of this issue in our community, and I boycott your movement, and am going to tell others to as well!
+それは本当に問題ではありませんでしたが、とにかく答えるでしょう。これは、火災を起こす必要がないところで火を発射する例です。他の人にもっと寛容になり、深い内面を読まないようにしてください。私たちは、あなたが誰であるか、どこから来たのか、どこに行くか気にしないことを何度も繰り返し明言しています。私たちは、私たちの話題に関する賢明な議論を重視しています。 NCoCを採用しているコミュニティを使用しない場合は、問題ありません。しかし、内容に耳を傾けて、あまりにも遠く離れて読んではいけません。それは単にNo Code of Conductの略です。
 
-That wasn't really a question, but we will answer it anyways.  This is an example of starting a fire where there does not need to be one.  Try to be more tolerant of others and not read into their deep inner views.  We have said clearly over and over that we don't care who you are, where you come from, or where you're going.  We value intelligent discussion on our topic, and that's it.  If you want to not use any community that adopts NCoC, that is fine.  But please do listen to the content, and do not read too far in-between the lines.  It simply stands for No Code of Conduct.
+#### Q：ああ、それは間違いなく起こった！誰かが私を不公平に扱っています。私は100％確信しています。私は誰か、私が言ったことや直接貢献したものに関係していません。
 
-#### Q: Oh no, it has definitely happened!  Someone has treated me unfairly, and I'm 100% sure its related to something about who I am, and not related to what I have said or contributed directly.
+その人に電子メールを送り、それを試してみてください。コミュニティの所有者に電子メールを送信し、警告を出します。あなたが何をしても、あなたの問題をコミュニティ全体に負担させるので、場面を作ってはいけません。それが本当に問題で、あなたが真にコミュニティにとっての資産なら、あなたはおそらくメールを返すでしょう。時々、あなたはもっと大きな人でなければなりません。あなたの作品を私的に言って、それに住んでいないでください。このような議論を始める時間や場所ではないことを覚えておいてください。他の誰かがあなたにこれをしたのは、それは不慣れですが、司会者と個人的な議論がそれほど多くなくてはなりません。私は、より大きなグループに持ち込むことは貧弱な形になり、役に立たないであろうことを恐れています。
 
-Email that person, and try to work it out.  Email the owners of the community, and alert them.  Whatever you do, do not make a scene, as that will burden the entire community with your issue.  If it's truly a problem and you're truly an asset to the community then you will probably get an email back. Sometimes, you have to be the bigger person.  Say your piece privately, and don't dwell on it.  Remember, this is not the time or place to start these kind of discussions.  If someone else did this to you, that is unclassy, but there is only so much a moderator and personal discussion can accomplish.  I am afraid that bringing to a larger group will be of poor form, and not helpful.
+#### Q：話題以外の話はどうですか？
 
-#### Q: What about off-topic chatter?
+オフトピックのチャットは落胆する必要がありますが、検閲されません。 NCoCは、特定のトピックに基づいて、オープンソースプロジェクトや公共のオンラインコミュニティのようなものをターゲットにしています。
 
-Off topic chatter should be discouraged, but not censored. NCoC is targeting things like open source projects and public online communities based around specific topics.
+#### Q：別のサイトやコミュニティで誰かが何かを言って、自分がひどい気分になってしまったときは、プロジェクトやコミュニティにどのように貢献できますか？
 
-#### Q: How can I contribute to your project or community when I see someone said something on a different site or community which directly makes me feel awful?
+私たちは人々の個人的な生活を守るための事業ではありません。うまくいけば、彼らもここにいるときに彼らは気にしない。人々を差別することのない部分は、人に対する差別ではありません。これは世界裁判所ではありません。時には人々は異なる意見を持っています。彼らがこれを他の場所で表現しているからといって、私たちが気にしないというわけではありません。あなたが私たちのコミュニティのメンバーがあなたが他の人が好きではない、そうでないものがあるように詰まっている場合は、おそらくここにいるべきではありません。
 
-We are not in the business of policing people's personal lives.  Hopefully they also don't care about that when they are here.  Part of not discriminating against people, is not discriminating against people.  This is not world court.  Sometimes people have different views.  Just because they express this elsewhere, doesn't mean we don't care.  If you are so stuck that a member of our community does or is something you don't like elsewhere, then you should probably not be here.
+#### Q：コミュニティマネージャーまたはリーダーとして、暴徒が到着したとき、または誰かがディスカッションに参加してより多くの無限の議論につながることができたらどうなりますか？
 
-#### Q: As a community manager or leader, what happens when the mob arrives, or when someone starts to engage in discussion that could lead to more endless discussion?
+自由にあなたの方法をロックし、禁止する。これは残念です。何も削除しないようにしてください。そうしないと、検閲の対象となります。しかし、他の選択肢はありません。関与しないでください。中止、中止を中止する！これらの議論では、あなたは本当に非常に簡潔で、曖昧で、閉鎖されるべきです。 「こんにちは、これは議論する場所ではなく、お互いに話し合うために、お互いに話し合ってください。このグループは、厳密には "$YOUR_TOPIC" に関するトピックです。終わり。
 
-Lock, and ban your way to freedom.  This is unfortunate.  Try to not delete anything, or you will be accused of censorship.  But you have no other choice.  Do not engage.  Abort, abort abort!  You should really be very brief, vague, and closed off in these discussions.  Say something like: "hey, this is not the place to discuss this, please reach out to each other privately or on another medium to discuss it.  This group is strictly about topics relating to $YOUR_TOPIC". End.
+#### Q：WTF、議論がロックされた、そして/または私は返信できません！
 
-#### Q: WTF, the discussion was locked, and/or I can't reply!?
+もう一度、我々は群衆によってオーバーライドされているコミュニティを容認するつもりはない。これが起こり始めると、私たちは、火を消すために何をしなくても、核兵器を撃退し、削除し、拘束し、閉鎖し、禁止する。これらの議論は引き続き繰り返し行われ、地域社会をより良くするものではありません。
 
-Once again, we are not going to tolerate our community being overridden by the mob.  If this starts to happen, we will nuke, delete, lock, close, ban, and do whatever we have to do to put the fire out.  These discussions drag on and on and on, and they don't make communities better.
+#### Q：私の気持ちを気にしないのはなぜですか？
 
-#### Q: Why don't you care about my feelings?
-
-We are not a support group for human emotion.  We are a community that strives to focus around our topics.  Anything else takes away from that.
+私たちは人間の感情のサポートグループではありません。私たちは、私たちの話題に焦点を当てようと努力しているコミュニティです。それ以外のものはそれから取り除かれます。
