@@ -1,3 +1,11 @@
+# (Temporary guide) This is translate to japanese for NCoC project.
+
+* I'm translation to hard, please help me if you can :)
+* Main branch is "translate_ja", if you contribute this project, please use this branch.
+* We're translation finished, then will send PR to NCoC.
+
+---------
+
 # What is NCoC
 
 No Code Of Conduct is a groundbreaking new idea.  Designed to help you find communities and projects that will not get stuck endlessly debating how members should behave in their communities, only to be found to never be fully resolved to anyone's liking.
